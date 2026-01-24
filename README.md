@@ -1,9 +1,7 @@
 ## Hi there. I`m Denis 👋
 
-
-### Golang developer
-
-
+- backend developer
+![Go!](https://i.pinimg.com/originals/bc/75/22/bc75225ef044d29d1f2d1c051d9b8063.gif)
 <!--
 **cdlinkin/cdlinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
