@@ -1,6 +1,4 @@
-## Hi there. I`m Denis 👋
-
-Go developer
+every person has the wise, creative power of a builder hidden within them, and it needs to be given the freedom to develop and flourish.
 <!--
 **cdlinkin/cdlinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
